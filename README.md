@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-My name is Madi, I am also known as Madi-wka, Madiwka4, Madiwka3, and DuckpnCruck. 
+My name is Madi, I am also known as Madi-wka, Madiwka4, and Madiwka3
 I am interested in many things, but mostly Game Design!
-I enjoy what I do, and you should too!
+
 
 <!--
 **Madiwka4/Madiwka4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
